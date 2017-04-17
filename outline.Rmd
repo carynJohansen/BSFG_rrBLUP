@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+make a script to load all data
+
+- gene expression
+- kinship
+- phenotype
+
+check that all are same individuals
+
+I do rrBLUP
+
